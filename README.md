@@ -1,9 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CFF,100:5DACFF&height=200&section=header&text=Hello%20I%27m%20Cl%C3%A9ment&fontSize=45&desc=Full%20Stack%20Developper&animation=fadeIn&fontColor=ffffff&fontAlignY=30&descAlignY=47" width='100%'/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CFF,100:6a46e9&height=100&section=header&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=30&descAlignY=47" width='100%'/>
 
 
 
 <p align="center">
   - 🔭 I’m currently working with <a href='https://meilleursbiens.com'>MeilleursBiens</a>
+</p>
+
+<p align="center">
+  - 🎨 I’m currently working on <a href='https://github.com/swayui'>SwayUI</a>
+</p>
+
+<p align="center">
+  <img style="height: 300px; border-radius: 10px" src="https://i.imgur.com/IKiXt4r.png">
 </p>
 
 <p align="center">
@@ -23,4 +31,5 @@
 
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=c-delouvencourt.c-delouvencourt" alt="c-delouvencourt" /></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CFF,100:5DACFF&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CFF,100:6a46e9&height=100&section=footer&fontSize=45&animation=fadeIn" width='100%'/>
