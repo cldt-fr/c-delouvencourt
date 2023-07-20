@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CFF,100:6a46e9&height=100&section=header&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=30&descAlignY=47" width='100%'/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB2030,100:BB2030&height=100&section=header&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=30&descAlignY=47" width='100%'/>
 
 
 
@@ -32,4 +32,4 @@
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=c-delouvencourt.c-delouvencourt" alt="c-delouvencourt" /></p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CFF,100:6a46e9&height=100&section=footer&fontSize=45&animation=fadeIn" width='100%'/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB2030,100:BB2030&height=100&section=footer&fontSize=45&animation=fadeIn" width='100%'/>
