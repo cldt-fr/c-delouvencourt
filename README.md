@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  - 🎨 I’m currently working on <a href='https://github.com/swayui'>SwayUI</a>
+  - 🎨 I’m currently working on <a href='https://home-staging.io'>HomeStaging.io</a> and <a href='https://home-staging.io'>Growfa.st</a>
 </p>
 
 <p align="center">
