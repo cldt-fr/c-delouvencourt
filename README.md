@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img style="height: 300px; border-radius: 10px" src="https://i.imgur.com/IKiXt4r.png">
-</p>
-
-<p align="center">
   - 📫 How to reach me <a href='mailto:clement@meilleursbiens.com'>clement@meilleursbiens.com</a>
 </p>
 <br/>
