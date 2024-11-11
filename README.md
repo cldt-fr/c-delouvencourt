@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  - 🎨 I’m currently working on <a href='https://home-staging.io'>HomeStaging.io</a> and <a href='https://home-staging.io'>Growfa.st</a>
-</p>
-
-<p align="center">
   <img style="height: 300px; border-radius: 10px" src="https://i.imgur.com/IKiXt4r.png">
 </p>
 
