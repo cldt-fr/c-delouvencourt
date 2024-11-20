@@ -1,0 +1,40 @@
+- name: JavaScript / TypeScript
+  logo: javascript
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  color: '#F7DF1E'
+  projects:
+    - url: https://github.com/c-delouvencourt/react-autocomplete-france
+    - url: https://github.com/c-delouvencourt/spotinder
+    - url: https://github.com/nocturneio/react-dpe-generator
+    - url: https://github.com/c-delouvencourt/Beam-Invoice
+    - url: https://github.com/c-delouvencourt/react-cookie-gpdr
+    - url: https://github.com/c-delouvencourt/react-native-crisp-chat-sdk
+    - url: https://github.com/c-delouvencourt/notion-blocks-chakra-ui
+    - url: https://github.com/c-delouvencourt/react-departements
+
+- name: PHP
+  logo: php
+  url: https://www.php.net/
+  color: '#8892BF'
+  projects:
+    - url: https://github.com/c-delouvencourt/laravel-aircall
+    - url: https://github.com/c-delouvencourt/laravel-pennylane
+    - url: https://github.com/c-delouvencourt/replicate-php
+    - url: https://github.com/c-delouvencourt/laravel-gmail
+    - url: https://github.com/MeilleursBiens/laravel-slack-events
+    - url: https://github.com/MeilleursBiens/laravel-calendly-wrapper
+
+- name: Java
+  logo: java
+  url: https://www.java.com/
+  color: '#007396'
+  projects:
+    - url: https://github.com/c-delouvencourt/cseries-android
+    - url: https://github.com/HoooplaStream/hooopla-server
+
+- name: Objective-C
+  logo: objectivec
+  url: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  color: '#438eff'
+  projects:
+    - url: https://github.com/HoooplaStream/hooopla-application
