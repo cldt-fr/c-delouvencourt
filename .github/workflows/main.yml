@@ -16,6 +16,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - uses: gleich/profile_stack@master
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
